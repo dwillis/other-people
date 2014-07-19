@@ -5,6 +5,7 @@ Libraries for Dealing with Names
 ## Swiss Army Knives
 
 * [name_tools](https://github.com/sunlightlabs/name_tools) (Python)
+* [Personize](https://github.com/codeprimate/personize) (Ruby)
 
 ## Parsers
 
