@@ -1,7 +1,7 @@
 Other People
 ============
 
-A repository for notes and ideas for [this SRCCON session](http://srccon.org/sessions/#p3499)
+A repository for notes and ideas for [this SRCCON session](http://schedule.srccon.org/#_session-13)
 
 Description
 ============
