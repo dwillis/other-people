@@ -24,7 +24,7 @@ Libraries for Dealing with Names
 * [JavaScript-Name-Parser](https://github.com/joshfraser/JavaScript-Name-Parser) (JS)
 * [Whosit](https://github.com/mediocre/whosit) (JS)
 * [humanparser](https://github.com/chovy/humanparser) (JS)
-* [W3C's "Personal names around the world"](dwww.w3.org/International/questions/qa-personal-names) (Essay)
+* [W3C's "Personal names around the world"](http://www.w3.org/International/questions/qa-personal-names) (Essay)
 
 ## Gender
 
