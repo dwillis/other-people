@@ -3,6 +3,8 @@ Other People
 
 A repository for notes and ideas for [this SRCCON session](http://schedule.srccon.org/#_session-13)
 
+[EtherPad from session here](https://etherpad.mozilla.org/AdvZynn3SR)
+
 Description
 ============
 
